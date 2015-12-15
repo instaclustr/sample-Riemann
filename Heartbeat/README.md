@@ -64,4 +64,4 @@ If you want to test it on a separate physical host, you will need to modify clie
 
 [Bernhard github page](https://github.com/banjiewen/bernhard)
 
-[Detailed explanation of this example](https://www.instaclustr.com/monitoring-cassandra-and-it-infrastructure-with-riemann/) FIXEME
+[Detailed explanation of this example](https://www.instaclustr.com/monitoring-cassandra-and-it-infrastructure-with-riemann/)
